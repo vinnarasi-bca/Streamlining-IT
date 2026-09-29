@@ -1,0 +1,6 @@
+node_modules/
+config/instance.json
+.env
+*.log
+.DS_Store
+dist/

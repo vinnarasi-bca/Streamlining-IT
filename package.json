@@ -1,0 +1,9 @@
+{
+  "name": "complete-project",
+  "version": "1.0.0",
+  "description": "Automating standard laptop orders with ServiceNow Flow Designer",
+  "scripts": {
+    "test": "node tests/validate.js"
+  },
+  "license": "MIT"
+}
